@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-theme-landing",
+  "version": "1.0.0",
+  "description": "VuePress theme for landing page.",
+  "keywords": [
+    "documentation",
+    "vuepress",
+    "landing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focuxin/vuepress-theme-landing.git"
+  },
+  "main": "index.js",
+  "author": "focuxin",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  },
+  "devDependencies": {}
+}
