@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-landing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VuePress theme for landing page.",
   "keywords": [
     "documentation",
@@ -14,8 +14,6 @@
   "main": "index.js",
   "author": "focuxin",
   "license": "MIT",
-  "dependencies": {
-    "bulma": "^0.9.3"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
